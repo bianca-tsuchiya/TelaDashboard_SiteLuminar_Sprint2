@@ -16,7 +16,7 @@
         display: flex;
         flex-direction: column;
         background-color: #000235;
-        height: 640px;
+        height: 100%;
         width: 25%;
         padding: 2% 4%;
         font-family: 'Roboto', sans-serif;
@@ -45,6 +45,10 @@
 
     .principal-menu{
         height: 85%;
+    }
+
+    .importante-menu{
+        height: 15%;
     }
 
     .principal-menu a{
